@@ -25,14 +25,11 @@
 <img src="https://img.shields.io/badge/platform-Windows-0366d6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform" />
 <img src="https://img.shields.io/badge/status-early%20development-orange?style=for-the-badge" alt="Status" />
 
-<br/><br/>
+<br/>
 
 
 </div>
 
-<br/>
 
----
 
-<br/><br/>
 
