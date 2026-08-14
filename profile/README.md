@@ -2,7 +2,7 @@
 
 # Control Panel as a GitHub repository.
 
-### A modern version control solution built around PLC
+### A modern version control solution built for PLC
 
 <br/>
 
