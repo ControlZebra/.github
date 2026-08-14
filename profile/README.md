@@ -7,7 +7,7 @@
 <br/>
 
 > **Diff. Merge. Roll back.**
-> Treat your PLC logic like real code — because it is.
+> PLC & PDF Panel Drawings.
 
 <br/>
 
