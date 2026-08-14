@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # Control Panel as a GitHub repository.
