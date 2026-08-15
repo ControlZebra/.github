@@ -2,12 +2,12 @@
 
 ## Control Panel as a GitHub repository.
 
-#### A modern version control solution built for a Control Panel 
+#### A modern version control solution built for a plant floor 
 Vendor-agnostic, zero-setup, no lock-in. 
 
 <br/>
 
-> **Collaborate | Visual Diff | Merge | Roll back**
+> **Collaborate | Visual Diff (PLC, PDF) | Merge | Roll back**
 
 > 
 
