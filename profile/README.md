@@ -1,13 +1,15 @@
 <div align="center">
 
-# Control Panel as a GitHub repository.
+## Control Panel as a GitHub repository.
 
-### A modern version control solution built for PLC
+#### A modern version control solution built for a Control Panel 
+Vendor-agnostic, zero-setup, no lock-in. 
 
 <br/>
 
-> **Diff. Merge. Roll back.**
-> PLC & PDF Panel Drawings.
+> ** Collaborate | Visual Diff | Merge | Roll back.**
+
+> 
 
 <br/>
 
@@ -17,6 +19,7 @@
 <a href="https://controlzebra.com"><strong>Download</strong></a>
 
 <br/><br/>
+
 **Download, Install & Run — it's free, and open source.**
 
 
