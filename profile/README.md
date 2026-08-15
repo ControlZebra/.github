@@ -7,7 +7,7 @@ Vendor-agnostic, zero-setup, no lock-in.
 
 <br/>
 
-> ** Collaborate | Visual Diff | Merge | Roll back.**
+> **Collaborate | Visual Diff | Merge | Roll back.**
 
 > 
 
